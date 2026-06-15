@@ -969,12 +969,11 @@ The final result is a reliable analytics platform that supports historical repor
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Gehad Hany Elsayed**.  
+Hi, I'm **Yasmin Ashraf Soliman**.  
 I am passionate about **Data Engineering**, **ETL pipelines**, **Data Warehousing**, **Analytics Engineering**, and **Business Intelligence solutions**.
 
-I enjoy building complete data platforms that transform raw data into clean, trusted, and meaningful business insights.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-hani-36602a261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-ashraf-123a73228/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasminashraf058)
 
 ---
 
